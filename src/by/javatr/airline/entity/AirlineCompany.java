@@ -4,7 +4,6 @@ import by.javatr.airline.entity.planes.Plane;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class AirlineCompany {
 
